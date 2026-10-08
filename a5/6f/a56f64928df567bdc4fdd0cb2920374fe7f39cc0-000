@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e669c-f8e5-7ff0-a93a-cb14a4c918c0",
+  "sessionId": "019e669c-f8e5-7ff0-a93a-cb14a4c918c0",
+  "provider": "codex",
+  "title": "Translate SRT chunk 4/4 for Black Panther: Wakanda Forever into polished French. You are not alone in the workspace; do not revert or modify",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/27/rollout-2026-05-27T01-27-03-019e669c-f8e5-7ff0-a93a-cb14a4c918c0.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/27/rollout-2026-05-27T01-27-03-019e669c-f8e5-7ff0-a93a-cb14a4c918c0.jsonl",
+      "relativePath": "conversations/codex/4096d63ea2ae2308/4e000bb61528fde4.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-26T23:37:45.457Z",
+  "stagedAt": "2026-10-04T09:30:36.135Z"
+}
